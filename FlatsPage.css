@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-card {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.home-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.home-para {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+}
+
+.home-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border: 0px;
+}
+
+.flatspg-container {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+
+    padding: 15px;
+}
+
+.marg {
+    margin: 10px;
+}
+
+.flatspg-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.flatspg-image {
+    height: 27vh;
+    width: 20vw;
+}
+
+.flatspg-card {
+    background-color: #ffffff;
+    padding: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    height: 27vh;
+}
+
+.card-heading {
+    color: #222222;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.card-para {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+}
+
+.flat1-container {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+}
+
+.flat1-image {
+    height: 35vh;
+    width: 100vw;
+}
+
+.bottom-section {
+    padding: 17px;
+
+}
+
+.bottom-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.flat1-image-item {
+    height: 4vh;
+    width: 6vw;
+    margin: 5px;
+}
+
+.flat1-para {
+    color: #ffffff;
+    padding: 4px;
+    font-family: "Bree Serif";
+}
+
+.hrline {
+    color: #ffffff;
+}
+
+.marg {
+    margin: 5px;
+}
